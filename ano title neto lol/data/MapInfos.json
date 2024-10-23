@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":940,"scrollY":340.5},
+{"id":2,"expanded":true,"name":"loadmap1","order":2,"parentId":1,"scrollX":456,"scrollY":247.63636363636363,"quick":false},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":0,"scrollX":371.55555555555554,"scrollY":209.4814814814815,"quick":false},
+{"id":4,"expanded":false,"name":"Toilet","order":4,"parentId":0,"scrollX":366.81481481481484,"scrollY":206.5185185185185,"quick":false}
+]
