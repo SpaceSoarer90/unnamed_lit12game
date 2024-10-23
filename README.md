@@ -4,12 +4,16 @@
   - all members of the technical committee must branch from the "main branch", which contains the assets that would be used throughout the entire game
   - when assets are updated, all members must push their commits to their respective branches
   - each member must work on one map at a time, they must never work on the same thing at a time.
+  - REMEMBER: always save your progress before doing commits
+
+
 ### Tasks
 - [x] "Item Acquired! message"
     - set the "dim" option to go bottom middle
-    - 
 - [x] set up git repository
-- [ ] 
+
+- [ ] make video work
+
 
 ### Useful Links
 - plugins:
