@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"SpaceTestMaps","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
+{"id":1,"expanded":true,"name":"SpaceTestMaps","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":2,"expanded":true,"name":"MapMalvin","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":false,"name":"MapJesse","order":3,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
+{"id":4,"expanded":false,"name":"MapQuintus","order":4,"parentId":1,"scrollX":0,"scrollY":0,"quick":false}
 ]
