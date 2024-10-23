@@ -1,32 +1,32 @@
-Grassland A|草原A
-Grassland A (Dark)|草原A（濃）
-Grassland B|草原B
-Grassland B (Dark)|草原B（濃）
+﻿Grassland|草原
+Dark Grassland|濃い草原
+Grassland|草原
+Dark Grassland|濃い草原
 Forest|森
 Forest (Conifer)|森（針葉樹）
-Mountain (Grass)|山（草）
-Mountain (Dirt)|山（土）
-Wasteland A|荒れ地A
-Wasteland B|荒れ地B
-Dirt Field A|土肌A
-Dirt Field B|土肌B
+Low Mountain (Grass)|低い山（草）
+High Mountain (Rock)|高い山（岩）
+Wasteland|荒れ地
+Wasteland|荒れ地
+Dirt Field|土肌
+Dirt Field|土肌
 Forest (Dead Trees)|森（枯れ木）
 Road (Dirt)|道（土）
-Hill (Dirt)|丘（土）
-Mountain (Sandstone)|山（砂岩）
-Desert A|砂漠A
-Desert B|砂漠B
-Rocky Land A|岩地A
-Rocky Land B (Lava)|岩地B（溶岩）
+Low Mountain (Dirt)|低い山（土）
+High Mountain (Rock)|高い山（岩）
+Desert|砂漠
+Desert|砂漠
+Rocky Land|岩地
+Rocky Land (Lava)|岩地（溶岩）
 Forest (Palm Trees)|森（ヤシの木）
 Road (Paved)|道（舗装）
-Mountain (Rock)|山（岩）
-Mountain (Lava)|山（溶岩）
+Low Mountain (Sandstone)|低い山（砂岩）
+High Mountain (Sandstone)|高い山（砂岩）
 Snowfield|雪原
-Mountain (Snow)|山（雪）
+Low Mountain (Snow)|低い山（雪）
 Clouds|雲
-Large Clouds|大きな雲
+High Mountain (Clouds)|高い山（雲）
 Forest (Snow)|森（雪）
 Pit|穴
-Hill (Sandstone)|丘（砂岩）
-Hill (Snow)|丘（雪）
+Low Mountain (Rock)|低い山（岩）
+High Mountain (Snow)|高い山（雪）

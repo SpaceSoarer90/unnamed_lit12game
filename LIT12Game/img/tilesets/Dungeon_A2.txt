@@ -1,32 +1,32 @@
-﻿Ground A (Dirt Cave)|床A（土洞窟）
-Ground B (Grass Maze)|床B（草迷宮）
-Dark Ground A (Dirt Cave)|濃い床A（土洞窟）
-Dark Ground B (Grass Maze)|濃い床B（草迷宮）
-Hole A (Dirt Cave)|穴A（土洞窟）
-Hole B (Grass Maze)|穴B（草迷宮）
-Hole I (Stone Floor)|穴I（石の床）
+﻿Ground (Dirt Cave)|床（土洞窟）
+Ground (Grass Maze)|床（草迷宮）
+Dark Ground (Dirt Cave)|濃い床（土洞窟）
+Dark Ground (Grass Maze)|濃い床（草迷宮）
+Hole (Dirt Cave)|穴（土洞窟）
+Hole (Grass Maze)|穴（草迷宮）
+Hole (Stone Floor)|穴（石の床）
 Ground Cracks|床のひび割れ
-Ground C (Rock Cave)|床C（岩洞窟）
-Ground D (Crystal)|床D（水晶）
-Dark Ground C (Rock Cave)|濃い床C（岩洞窟）
-Dark Ground D (Crystal)|濃い床D（水晶）
-Hole C (Rock Cave)|穴C（岩洞窟）
-Hole D (Crystal)|穴D（水晶）
-Hole J|穴J
+Ground (Rock Cave)|床（岩洞窟）
+Ground (Crystal)|床（水晶）
+Dark Ground (Rock Cave)|濃い床（岩洞窟）
+Dark Ground (Crystal)|濃い床（水晶）
+Hole (Rock Cave)|穴（岩洞窟）
+Hole (Crystal)|穴（水晶）
+Hole|穴
 Soil on Ground|床の汚れ
-Ground E (Lava Cave)|床E（溶岩洞窟）
-Ground F (In Body)|床F（体内）
-Dark Ground E (Lava Cave)|濃い床E（溶岩洞窟）
-Rug A|じゅうたんA
-Hole E (Lava Cave)|穴E（溶岩洞窟）
-Hole F (In Body)|穴F（体内）
+Ground (Lava Cave)|床（溶岩洞窟）
+Ground (In Body)|床（体内）
+Dark Ground (Lava Cave)|濃い床（溶岩洞窟）
+Rug|じゅうたん
+Hole (Lava Cave)|穴（溶岩洞窟）
+Hole (In Body)|穴（体内）
 Fencepost|柵
 Moss on Ground|床の苔
-Ground G (Ice Cave)|床G（氷洞窟）
-Ground H (Demonic World)|床H（魔界）
-Dark Ground G (Ice Cave)|濃い床G（氷洞窟）
-Rug B|じゅうたんB
-Hole G (Ice Cave)|穴G（氷洞窟）
-Hole H (Demonic World)|穴H（魔界）
+Ground (Ice Cave)|床（氷洞窟）
+Ground (Demonic World)|床（魔界）
+Dark Ground (Ice Cave)|濃い床（氷洞窟）
+Rug|じゅうたん
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Demonic World)|穴（魔界）
 Raised Stone|石段
 Poison Swamp|毒の沼
