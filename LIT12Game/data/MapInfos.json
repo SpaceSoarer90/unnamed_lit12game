@@ -6,5 +6,8 @@ null,
 {"id":4,"expanded":false,"name":"MapQuintus","order":4,"parentId":1,"scrollX":399.2,"scrollY":340.4,"quick":false},
 {"id":5,"expanded":true,"name":"Introduction","order":5,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":6,"expanded":true,"name":"Scene1:Apartment","order":6,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
-{"id":7,"expanded":false,"name":"Scene2:BusStation","order":7,"parentId":5,"scrollX":0,"scrollY":0,"quick":false}
+{"id":7,"expanded":true,"name":"Scene2:BusStation","order":7,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":false,"name":"Scene2.2:Inside the Bus","order":8,"parentId":7,"scrollX":0,"scrollY":0,"quick":false},
+{"id":9,"expanded":false,"name":"Scene3:Lola'sHouse","order":9,"parentId":5,"scrollX":0,"scrollY":0,"quick":false},
+{"id":10,"expanded":false,"name":"Scene4:InteractingHouse","order":10,"parentId":5,"scrollX":0,"scrollY":0,"quick":false}
 ]
