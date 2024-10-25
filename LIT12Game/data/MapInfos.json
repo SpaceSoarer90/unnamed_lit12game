@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"Introduction","order":6,"parentId":0,"scrollX":443.55555555555554,"scrollY":378.22222222222223,"quick":false},
 {"id":6,"expanded":true,"name":"Scene1:Apartment","order":7,"parentId":5,"scrollX":716.5714285714286,"scrollY":389.14285714285717,"quick":false},
 {"id":7,"expanded":true,"name":"Scene2:BusStation","order":8,"parentId":5,"scrollX":716.5714285714286,"scrollY":389.14285714285717,"quick":false},
-{"id":8,"expanded":false,"name":"Scene2.2:Inside the Bus","order":9,"parentId":7,"scrollX":912,"scrollY":426.6666666666667,"quick":false},
+{"id":8,"expanded":false,"name":"Scene2.2:Inside the Bus","order":9,"parentId":7,"scrollX":2288,"scrollY":495.27272727272725,"quick":false},
 {"id":9,"expanded":false,"name":"Scene3:Lola'sHouse","order":10,"parentId":5,"scrollX":443.55555555555554,"scrollY":378.22222222222223,"quick":false},
 {"id":10,"expanded":false,"name":"Scene4:InteractingHouse","order":11,"parentId":5,"scrollX":716.5714285714286,"scrollY":389.14285714285717,"quick":false},
 {"id":11,"expanded":false,"name":"SideMVTest","order":5,"parentId":4,"scrollX":716.4444444444445,"scrollY":385.3333333333333,"quick":false}
