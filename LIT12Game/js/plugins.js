@@ -6,5 +6,7 @@ var $plugins =
 {"name":"GALV_LayerGraphicsMZ","status":true,"description":"(v.1.3) Create graphic layers for parallax mapping, fog, etc. View documentation for plugin commands.","parameters":{"fixPosition":"true"}},
 {"name":"GALV_CharacterAnimationsMZ","status":true,"description":"(v.1.3) Make the player and follower characters use different\r\ngraphics for idle, walk and run. View HELP for more info.","parameters":{"useJumpGraphic":"true","vehicles":"false","commonEventId":"0","commonEventTime":"0","repeatCommonEvent":"true"}},
 {"name":"GALV_MessageStylesMZ","status":true,"description":"(v.2.1) 'Show Text' windows float above characters and change visuals during game.","parameters":{"iIndicator":"2,0,-12","mPadding":"0,0,0,0","invertPos":"false","aGraphic":"","yOffset":"60"}},
-{"name":"GALV_ActionIndicatorsMZ","status":true,"description":"(v.1.0) Display an icon when the player is able to interact with an event. View help for comment tag.","parameters":{"yOffset":"-10","zPosition":"5","autoHide":"true","iconOpacity":"200"}}
+{"name":"GALV_ActionIndicatorsMZ","status":true,"description":"(v.1.0) Display an icon when the player is able to interact with an event. View help for comment tag.","parameters":{"yOffset":"-10","zPosition":"5","autoHide":"true","iconOpacity":"200"}},
+{"name":"Tile Changer (MV)","status":true,"description":"Change tiles on map or copy tiles from another map","parameters":{}},
+{"name":"GALV_MessageBustsMZ","status":true,"description":"(v.1.2) Displays a bust image instead of selected face image","parameters":{"bPriority":"1","bPosition":"1","bX":"0","bY":"0","xOffset":"390","fileAppend":"","mStyleBusts":"false"}}
 ];
