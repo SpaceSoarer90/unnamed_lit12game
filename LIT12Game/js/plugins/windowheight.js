@@ -9,7 +9,7 @@ Window_Message.prototype.updatePlacement = function() {
 
 Scene_Message.prototype.messageWindowRect = function() {
     const ww = Graphics.boxWidth;
-    const wh = this.calcWindowHeight(4, false) + 8;
+    const wh = this.calcWindowHeight(2, false) + 8;
     const wx = (Graphics.boxWidth - ww) / 2;
     const wy = 0;
     return new Rectangle(wx, wy, ww, wh);
