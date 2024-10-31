@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Introduction","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":2,"expanded":false,"name":"Scene1:Apartment","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false}
+{"id":2,"expanded":true,"name":"Scene1:Apartment","order":2,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":false,"name":"Scene2:BusStation","order":3,"parentId":1,"scrollX":0,"scrollY":0,"quick":false}
 ]
