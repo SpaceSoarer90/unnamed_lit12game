@@ -2,10 +2,10 @@
 null,
 {"id":1,"expanded":true,"name":"Introduction","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":2,"expanded":true,"name":"Scene1:Apartment","order":2,"parentId":1,"scrollX":707.4285714285714,"scrollY":398.2857142857143,"quick":false},
-{"id":3,"expanded":true,"name":"Scene2:BusStation","order":4,"parentId":1,"scrollX":900.3636363636364,"scrollY":506.90909090909093,"quick":false},
-{"id":4,"expanded":false,"name":"Scene1.1:TransitionToScene2","order":3,"parentId":2,"scrollX":900.3636363636364,"scrollY":1093.090909090909,"quick":false},
-{"id":5,"expanded":true,"name":"Scene3:LolaHouseRoad","order":6,"parentId":1,"scrollX":1195.4285714285713,"scrollY":389.14285714285717,"quick":false},
+{"id":3,"expanded":true,"name":"Scene2:BusStation","order":4,"parentId":1,"scrollX":653,"scrollY":348.5,"quick":false},
+{"id":4,"expanded":false,"name":"Scene1.1:TransitionToScene2","order":3,"parentId":2,"scrollX":627,"scrollY":1093.5,"quick":false},
+{"id":5,"expanded":true,"name":"Scene3:LolaHouseRoad","order":6,"parentId":1,"scrollX":1008,"scrollY":483.5,"quick":false},
 {"id":6,"expanded":false,"name":"Scene3.1:LolaHouseOutside","order":7,"parentId":5,"scrollX":912,"scrollY":797.8181818181819,"quick":false},
 {"id":7,"expanded":false,"name":"Scene3.2:LolaHouseInside","order":8,"parentId":5,"scrollX":707.4285714285714,"scrollY":389.14285714285717,"quick":false},
-{"id":8,"expanded":false,"name":"Scene2.1:SidewaysBusView","order":5,"parentId":3,"scrollX":0,"scrollY":0,"quick":false}
+{"id":8,"expanded":false,"name":"Scene2.1:BusSideView","order":5,"parentId":3,"scrollX":627,"scrollY":340.5,"quick":false}
 ]
