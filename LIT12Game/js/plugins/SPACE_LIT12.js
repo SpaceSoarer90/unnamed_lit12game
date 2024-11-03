@@ -111,3 +111,21 @@ Space.LIT.setFrame = function(frame) {
   $gamePlayer._originalPattern = frame;
   $gamePlayer.resetPattern();
 }
+
+Space.LIT.videos = function(SceneNo) {
+
+  if (SceneNo == "S2.1") {
+    Niji.Video.load("S2.1", "Scene2Cutscene.webm") ;
+    Niji.Video.scale("S2.1", 0.5, 0.5);
+    Niji.Video.center("S2.1");
+    Niji.Video.animate("S2.1", [
+      { type: 'opacity', opacity: 1, duration: 450 }
+    ]);
+    // Niji.Video.animate("S2.1", [
+    //   { type: 'opacity', opacity: 0, duration: 1 }
+    // ]);
+    Niji.Video.play("S2.1");
+  } else {
+    console.log("Video does not exist!");
+  } // else if () { }
+}
