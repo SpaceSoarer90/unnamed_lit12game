@@ -118,9 +118,9 @@ Space.LIT.videos = function(SceneNo) {
     Niji.Video.load("S2.1", "Scene2Cutscene.webm") ;
     Niji.Video.scale("S2.1", 0.5, 0.5);
     Niji.Video.center("S2.1");
-    Niji.Video.animate("S2.1", [
-      { type: 'opacity', opacity: 1, duration: 450 }
-    ]);
+    //Niji.Video.animate("S2.1", [
+    // { type: 'opacity', opacity: 1, duration: 450 }
+    //]);
     // Niji.Video.animate("S2.1", [
     //   { type: 'opacity', opacity: 0, duration: 1 }
     // ]);
