@@ -115,7 +115,7 @@ Space.LIT.setFrame = function(frame) {
 Space.LIT.videos = function(SceneNo) {
 
   if (SceneNo == "S2.1") {
-    Niji.Video.load("S2.1", "Scene2Cutscene.webm") ;
+    Niji.Video.load("S2.1", "Scene2Cutscene.webm", {volume: 80}) ;
     Niji.Video.scale("S2.1", 0.5, 0.5);
     Niji.Video.center("S2.1");
     Niji.Video.animate("S2.1", [
