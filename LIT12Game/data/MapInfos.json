@@ -21,8 +21,8 @@ null,
 {"id":19,"expanded":true,"name":"ACT2","order":27,"parentId":0,"scrollX":362.0740740740741,"scrollY":214.22222222222223,"quick":false},
 {"id":20,"expanded":true,"name":"MAP020","order":28,"parentId":19,"scrollX":362.0740740740741,"scrollY":214.22222222222223,"quick":false},
 {"id":21,"expanded":false,"name":"SistersRoom","order":16,"parentId":13,"scrollX":362.0740740740741,"scrollY":197.03703703703704,"quick":false},
-{"id":22,"expanded":true,"name":"School","order":20,"parentId":10,"scrollX":488.8,"scrollY":272.4,"quick":false},
-{"id":23,"expanded":true,"name":"Scene2.3:Lunch","order":22,"parentId":10,"scrollX":369.18518518518516,"scrollY":209.4814814814815,"quick":false},
+{"id":22,"expanded":true,"name":"School","order":20,"parentId":10,"scrollX":443.55555555555554,"scrollY":378.22222222222223,"quick":false},
+{"id":23,"expanded":true,"name":"Scene2.3:Lunch","order":22,"parentId":10,"scrollX":443.55555555555554,"scrollY":378.22222222222223,"quick":false},
 {"id":24,"expanded":false,"name":"Playground","order":23,"parentId":10,"scrollX":495.2,"scrollY":266,"quick":false},
 {"id":25,"expanded":true,"name":"SCENE2.4","order":24,"parentId":10,"scrollX":495.2,"scrollY":266,"quick":false},
 {"id":26,"expanded":true,"name":"Scene3.2:LolaHouseInside","order":25,"parentId":10,"scrollX":362.0740740740741,"scrollY":197.03703703703704,"quick":false},
@@ -35,5 +35,5 @@ null,
 {"id":33,"expanded":false,"name":"Crowd","order":34,"parentId":20,"scrollX":362.0740740740741,"scrollY":214.22222222222223,"quick":false},
 {"id":34,"expanded":false,"name":"Pharmacy","order":35,"parentId":20,"scrollX":366.81481481481484,"scrollY":214.22222222222223,"quick":false},
 {"id":35,"expanded":false,"name":"Playground/SpecialPlace","order":36,"parentId":20,"scrollX":608,"scrollY":332.5,"quick":false},
-{"id":36,"expanded":false,"name":"SchoolSideMV","order":21,"parentId":22,"scrollX":495.2,"scrollY":272.4,"quick":false}
+{"id":36,"expanded":false,"name":"SchoolSideMV","order":21,"parentId":22,"scrollX":495.1111111111111,"scrollY":385.3333333333333,"quick":false}
 ]
