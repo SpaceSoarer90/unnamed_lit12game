@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "Unnamed",
+        "title": "Dapit Hapon",
         "width": 612,
         "height": 352,
         "position": "center",
